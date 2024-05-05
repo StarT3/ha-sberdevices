@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: SberDevices
-url: 'https://github.com/StarT3/ha-sberdevices'
+url: 'https://github.com/StarT3/ha-sberdevices/tree/main/custom_components/sberdevices'
 maintainer: Max Foxie <max@foxie.solutions>
